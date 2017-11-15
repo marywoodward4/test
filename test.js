@@ -25,7 +25,7 @@ function getRandomColor(){
 	return color;
 }
 //we chaged the file
-
+//we changed it again
 
 
 
